@@ -1,0 +1,2 @@
+# Social-Distancing-Detector
+Social Distancing Detector is made using Python, YOLOv3, Darknet, and OpenCV. YOLO stands for You Only Look Once. It is an object detection system that can recognize various object types in a single frame. During the COVID-19 pandemic as the World has started to unlock day by day this detector can capture the live stream from the street cameras and the results can be monitored by the traffic police officers and can help in maintaining the social distancing protocols.
